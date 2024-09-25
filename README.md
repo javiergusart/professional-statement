@@ -14,9 +14,6 @@ My goal is to leverage my diverse skill set to **support the security goals** of
 
 My background in education and media production has given me the ability to **analyze complex technical issues** and **deliver clear, actionable solutions**, making me an asset to any cybersecurity team.
 
-As an experienced technical and creative professional with a solid foundation in project management, technical training, and multimedia production, I am now transitioning into the field of cybersecurity. My strengths in **problem-solving**, **time management**, and **technical instruction** equip me to thrive in a cybersecurity role, where I am committed to protecting organizations and their digital assets.
-
-
 
 
 ## Skills:
