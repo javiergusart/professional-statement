@@ -2,7 +2,7 @@
 
 ## Professional Statement
 
-As an experienced **technical and creative professional** with a background in project management, technical education, and media production, transitioning into cybersecurity to protect organizations and their digital assets. My strengths in **technical problem-solving**, **project management**, and **creative troubleshooting** will allow me to identify, analyze, and mitigate security threats. I’m particularly passionate about **data protection** and **training teams** to foster a culture of cybersecurity awareness.
+As an experienced **technical and creative professional** with a solid foundation in project management, technical training, and multimedia production, I am now transitioning into the field of cybersecurity. My strengths in **problem-solving**, **time management**, and **technical instruction** equip me to thrive in a cybersecurity role, where I am committed to protecting organizations and their digital assets.
 
 I am particularly passionate about:
 - **Safeguarding sensitive information**: Ensuring the integrity and confidentiality of data within organizations.
