@@ -1,5 +1,3 @@
-# Cybersecurity Portfolio - Javier Gusart
-
 ## Professional Statement
 
 As an experienced **technical and creative professional** with a solid foundation in project management, technical training, and multimedia production, I am now transitioning into the field of cybersecurity. My strengths in **problem-solving**, **time management**, and **technical instruction** equip me to thrive in a cybersecurity role, where I am committed to protecting organizations and their digital assets.
